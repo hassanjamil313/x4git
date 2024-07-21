@@ -15,3 +15,8 @@ Installing Git
 Configuring Git
 
 
+regards
+
+
+=================
+
