@@ -1,6 +1,5 @@
 # x4git
-
-Welcome to the GitHub Course! This course is designed to help you learn the basics of using GitHub, from creating repositories to collaborating with others. By the end of this course, you will have a solid understanding of how to use GitHub effectively for your projects.
+Bienvenido al Curso de GitHub! Este curso está diseñado para ayudarte a aprender los conceptos básicos de GitHub, desde la creación de repositorios hasta la colaboración con otros. Al final de este curso, tendrás una comprensión sólida de cómo usar GitHub de manera efectiva para tus proyectos.
 
 Course Outline
 Introduction to GitHub
@@ -15,5 +14,4 @@ Installing Git
 Configuring Git
 
 
-edit comite
-
+edit comite 
